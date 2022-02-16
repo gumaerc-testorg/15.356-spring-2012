@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 1: The Paradigm Shift from Producer to User Innovation (PDF
+  - 3.2MB)](resources/mit15_356s12_lec01)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: The Paradigm Shift from Producer to User Innovation'
 uid: 8ce3fa68-230d-0284-d69c-506e58d2b278

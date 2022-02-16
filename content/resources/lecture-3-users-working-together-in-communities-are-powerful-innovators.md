@@ -2,6 +2,16 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 3: Users Working Together in Communities Are Powerful Innovators
+  (PDF - 3.6MB)](resources/mit15_356s12_lec03)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: 'knuckletube. ["SkateBoarding: The Birth of Vertical (The
+  DogTown Video)."](http://www.youtube.com/watch?v=1ieY0Zu9IiE)'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Users Working Together in Communities Are Powerful Innovators'
 uid: 3d94fee3-e93b-a7b4-830a-21068378aa22
