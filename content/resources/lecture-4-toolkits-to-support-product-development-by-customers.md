@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: 'NatureVideoChannel. ["Foldit: Biology for Gamers."](http://www.youtube.com/watch?v=axN0xdhznhY)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Toolkits to Support Product Development by Customers'
 uid: e7c28dfd-e3cc-b42b-2db4-49b2672845c3
 video_files:

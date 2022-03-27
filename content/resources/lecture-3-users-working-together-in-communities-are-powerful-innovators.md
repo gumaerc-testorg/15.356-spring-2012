@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: 'knuckletube. ["SkateBoarding: The Birth of Vertical (Th
   DogTown Video)."](http://www.youtube.com/watch?v=1ieY0Zu9IiE)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Users Working Together in Communities Are Powerful Innovators'
 uid: 3d94fee3-e93b-a7b4-830a-21068378aa22
 video_files:
