@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 4: Toolkits to Support Product Development by Customers (PDF)](resources/mit15_356s12_lec04)'
+optional_text: '[Lecture 4: Toolkits to Support Product Development by Customers (PDF)](/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/resources/mit15_356s12_lec04)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: 'NatureVideoChannel. ["Foldit: Biology for Gamers."](http://www.youtube.com/watch?v=axN0xdhznhY)'
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Producers can help their customers innovate—and gain commercially valuable ideas as a result, by providing customers with toolkits for user innovation. This video explains what such toolkits are, and how they work.
 
 **Speaker:** Eric von Hippel
+
+
+

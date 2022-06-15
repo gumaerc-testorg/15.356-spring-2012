@@ -5,9 +5,10 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 3: Users Working Together in Communities Are Powerful Innovators
-  (PDF - 3.6MB)](resources/mit15_356s12_lec03)'
+  (PDF - 3.6MB)](/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/resources/mit15_356s12_lec03)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: 'knuckletube. ["SkateBoarding: The Birth of Vertical (The
@@ -29,3 +30,6 @@ video_metadata:
 **Description:** When users join together to work on a common interest—ranging from open source software projects to kitesurfing—they can carry out large scale innovation projects of great interest to both users and producers. This video explains with examples.
 
 **Speaker:** Eric von Hippel
+
+
+
