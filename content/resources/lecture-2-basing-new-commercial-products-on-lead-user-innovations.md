@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 2: Basing New Commercial Products on "Lead User" Innovations
@@ -34,6 +35,4 @@ video_metadata:
 **Description:** Producers can benefit from commercializing user—developed innovations—but they must learn to identify those "lead users" who develop the most valuable ones. This video explains methods by which firms can identify and learn from lead users.
 
 **Speaker:** Eric von Hippel
-
-
 

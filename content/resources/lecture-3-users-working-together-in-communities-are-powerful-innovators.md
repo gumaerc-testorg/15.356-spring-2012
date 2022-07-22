@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 3: Users Working Together in Communities Are Powerful Innovators
@@ -30,6 +31,4 @@ video_metadata:
 **Description:** When users join together to work on a common interest—ranging from open source software projects to kitesurfing—they can carry out large scale innovation projects of great interest to both users and producers. This video explains with examples.
 
 **Speaker:** Eric von Hippel
-
-
 

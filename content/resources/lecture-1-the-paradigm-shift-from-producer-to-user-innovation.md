@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 1: The Paradigm Shift from Producer to User Innovation (PDF
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** In this video Prof. von Hippel explains the ongoing paradigm shift from producer to user innovation. He describes study findings, and explains why users—both individuals and firms—are increasingly developing new products and services for themselves.
 
 **Speaker:** Eric von Hippel
-
-
 

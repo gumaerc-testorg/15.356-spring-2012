@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 4: Toolkits to Support Product Development by Customers (PDF)](/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/resources/mit15_356s12_lec04)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Producers can help their customers innovate—and gain commercially valuable ideas as a result, by providing customers with toolkits for user innovation. This video explains what such toolkits are, and how they work.
 
 **Speaker:** Eric von Hippel
-
-
 
