@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -12,12 +13,13 @@ optional_text: '[Lecture 2: Basing New Commercial Products on "Lead User" Innova
   (PDF - 1.7MB)](/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/resources/mit15_356s12_lec02)'
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: 'openuserinnovation. ["Lead User Studies (1/6) - Developing
-  Breakthrough Products and Services."](http://www.youtube.com/watch?v=tNKrX1QxN6U)
+related_resources_text: 'openuserinnovation. {{% resource_link "947efe47-74a5-4ce5-85d8-9a170b47b583"
+  "\"Lead User Studies (1/6) - Developing Breakthrough Products and Services.\"" %}}
 
 
-  Churchill, Joan, Eric von Hippel, and Mary Sonnack. ["Lead User Project Handbook:
-  A Practical Guide for Lead User Project Teams (PDF - 3.51MB)."](http://mit.edu/evhippel/www/Lead%20User%20Project%20Handbook%20%28Full%20Version%29.pdf)'
+  Churchill, Joan, Eric von Hippel, and Mary Sonnack. {{% resource_link "9fec7650-459d-46ec-aa0c-97a62be37f6c"
+  "\"Lead User Project Handbook: A Practical Guide for Lead User Project Teams (PDF
+  - 3.51MB).\"" %}}'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
