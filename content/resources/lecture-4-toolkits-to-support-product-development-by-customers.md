@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -11,7 +12,8 @@ optional_tab_title: Lecture Slides
 optional_text: '[Lecture 4: Toolkits to Support Product Development by Customers (PDF)](/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/resources/mit15_356s12_lec04)'
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: 'NatureVideoChannel. ["Foldit: Biology for Gamers."](http://www.youtube.com/watch?v=axN0xdhznhY)'
+related_resources_text: 'NatureVideoChannel. {{% resource_link "ae7c397a-ff78-45c7-9f88-3821e76d5abb"
+  "\"Foldit: Biology for Gamers.\"" %}}'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
