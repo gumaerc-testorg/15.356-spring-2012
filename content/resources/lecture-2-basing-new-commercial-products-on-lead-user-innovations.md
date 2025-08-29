@@ -25,7 +25,7 @@ start_time: ''
 title: 'Lecture 2: Basing New Commercial Products on "Lead User" Innovations'
 uid: 5f16888b-8e98-0653-beef-7a2bef5ef515
 video_files:
-  archive_url: http://www.archive.org/download/MIT15.356S12/MIT15_356S12lec2_300k.mp4
+  archive_url: ''
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/31iUEuwi740/default.jpg
   video_transcript_file: null
