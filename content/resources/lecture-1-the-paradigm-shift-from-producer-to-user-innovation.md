@@ -20,7 +20,7 @@ start_time: ''
 title: 'Lecture 1: The Paradigm Shift from Producer to User Innovation'
 uid: 8ce3fa68-230d-0284-d69c-506e58d2b278
 video_files:
-  archive_url: http://www.archive.org/download/MIT15.356S12/MIT15_356S12lec1_300k.mp4
+  archive_url: ''
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/cKcAcm5NDOI/default.jpg
   video_transcript_file: null
