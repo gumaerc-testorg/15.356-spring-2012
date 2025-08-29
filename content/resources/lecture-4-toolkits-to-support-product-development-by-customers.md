@@ -19,7 +19,7 @@ start_time: ''
 title: 'Lecture 4: Toolkits to Support Product Development by Customers'
 uid: e7c28dfd-e3cc-b42b-2db4-49b2672845c3
 video_files:
-  archive_url: http://www.archive.org/download/MIT15.356S12/MIT15_356S12lec4_300k.mp4
+  archive_url: ''
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/RPSt0o3yRhI/default.jpg
   video_transcript_file: null
