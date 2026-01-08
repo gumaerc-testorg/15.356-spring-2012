@@ -12,8 +12,7 @@ optional_tab_title: Lecture Slides
 optional_text: '[Lecture 4: Toolkits to Support Product Development by Customers (PDF)](/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/resources/mit15_356s12_lec04)'
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: 'NatureVideoChannel. {{% resource_link "4c209b73-0a57-4d5e-81ee-8d9d6ec53505"
-  "\"Foldit: Biology for Gamers.\"" %}}'
+related_resources_text: 'NatureVideoChannel. ["Foldit: Biology for Gamers."](http://www.youtube.com/watch?v=axN0xdhznhY)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
